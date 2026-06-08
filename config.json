@@ -1,5 +1,21 @@
 {
-  "servers": [],
-  "version": 1,
-  "message": "Ygrt VPN - Configuración inicial"
+"serverType": 0,
+"Name": "Personal Prepago ARG",
+"Flag": "argentina",
+"Info": "prepago sin megas",
+"tunnelType": 0,
+"ServerHost": "144.33.30.132",
+"ServerPort": "80",
+"ProxyHost":
+"ProxyPort":
+"Username":
+"Password": "",
+"Payload": "GET / HTTP/1.1 [crlf]Host:
+ayudaysoporte.personal.com.ar[crlf]
+[crlf][split][crlf][crlf]GET- \/ HTTP\/
+1.1 [crlf]Host: www.personal.com.ar[crlf]
+[crlf]GET / HTTP/1.1 [crlf]Host:
+dg1p2uu2i32e8.cloudfront.net[crlf]Connection:
+Upgrade[crlf]Upgrade: Websocket[crlf][split][crlf]",
+"Sni": ""
 }
